@@ -1,4 +1,6 @@
-# Code your solution in calculator.rb
+first_number = "Hello world!"
+
+
 
 describe "./calculator.rb" do
 
